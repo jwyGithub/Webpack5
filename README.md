@@ -1,7 +1,6 @@
 ## Webpack@5
 
 ##### 目录结构
-
     |-- .gitignore 								#git忽略文件
     |-- jsconfig.json							#js配置文件
     |-- package.json
